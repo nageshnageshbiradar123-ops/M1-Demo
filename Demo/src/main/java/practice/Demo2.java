@@ -6,6 +6,7 @@ public class Demo2 {
 		System.out.println("raj");
 		System.out.println("demo2");
 		System.out.println("demo2s");
+		System.out.println("demo3");
 	}
 
 }
